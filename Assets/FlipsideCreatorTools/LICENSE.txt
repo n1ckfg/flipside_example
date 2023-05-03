@@ -1,0 +1,194 @@
+FLIPSIDE CREATOR TOOLS END USER LICENSE AGREEMENT
+
+This copy of Flipside Creator Tools (the "Software Product") and accompanying documentation is
+licensed and not sold. This Software Product is protected by copyright laws and treaties,
+as well as laws and treaties related to other forms of intellectual property. Flipside XR
+Inc. or its subsidiaries, affiliates, and suppliers (collectively "FLIPSIDE") own
+intellectual property rights in the Software Product. The Licensee's ("you" or "your")
+license to download, use, copy, or change the Software Product is subject to these rights
+and to all the terms and conditions of this End User License Agreement ("Agreement"). 
+
+Acceptance 
+
+YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT BY SELECTING THE "ACCEPT"
+OPTION AND DOWNLOADING THE SOFTWARE PRODUCT OR BY INSTALLING, USING, OR COPYING THE
+SOFTWARE PRODUCT. YOU MUST AGREE TO ALL OF THE TERMS OF THIS AGREEMENT BEFORE YOU WILL BE
+ALLOWED TO DOWNLOAD THE SOFTWARE PRODUCT. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS
+AGREEMENT, YOU MUST SELECT "DECLINE" AND YOU MUST NOT INSTALL, USE, OR COPY THE SOFTWARE
+PRODUCT. 
+  
+License Grant 
+
+This Agreement entitles you to install and use one copy of the Software Product. In
+addition, you may make one archival copy of the Software Product. The archival copy must
+be on a storage medium other than a hard drive, and may only be used for the
+reinstallation of the Software Product. This Agreement does not permit the installation or
+use of multiple copies of the Software Product, or the installation of the Software
+Product on more than one device at any given time, on a system that allows shared used of
+applications, on a multi-user network, or on any configuration or system of devices that
+allows multiple users. Multiple copy use or installation is only allowed if you obtain an
+appropriate licensing agreement for each user and each copy of the Software Product. For
+further information regarding multiple copy licensing of the Software Product, please
+contact: 
+  
+Representative: Flipside XR Inc.
+Phone Number:   1-844-335-5407
+E-mail Address: info@flipsidexr.com
+Address:        404-250 McDermot Avenue
+                Winnipeg, Manitoba R3B 0S5
+
+Restrictions on Transfer
+
+Without first obtaining the express written consent of FLIPSIDE, you may not assign your
+rights and obligations under this Agreement, or redistribute, encumber, sell, rent, lease,
+sublicense, or otherwise transfer your rights to the Software Product. 
+
+Restrictions on Use
+
+You may not use, copy, or install the Software Product on any system with more than one
+device, or permit the use, copying, or installation of the Software Product by more than
+one user or on more than one device. If you hold multiple, validly licensed copies, you
+may not use, copy, or install the Software Product on any system with more than the number
+of devices permitted by license, or permit the use, copying, or installation by more
+users, or on more devices than the number permitted by license. 
+
+You may not decompile, "reverse-engineer", disassemble, or otherwise attempt to derive the
+source code for the Software Product. 
+
+Restrictions on Alteration 
+
+You may not modify the Software Product or create any derivative work of the Software
+Product or its accompanying documentation. Derivative works include but are not limited to
+translations. You may not alter any files or libraries in any portion of the Software
+Product. 
+
+Restrictions on Copying 
+
+You may not copy any part of the Software Product except to the extent that licensed use
+inherently demands the creation of a temporary copy stored in device memory and not
+permanently affixed on storage medium. You may make one archival copy which must be stored
+on a medium other than a computer hard drive. 
+
+Limited Software Product Warranty
+
+For a period of 60 days from the date of shipment or from the date that you download the
+Software Product, as applicable, FLIPSIDE warrants that when properly installed and used
+under normal conditions, the Software Product will perform substantially as advertised. 
+
+Disclaimer of Warranties and Limitation of Liability
+ 
+UNLESS OTHERWISE EXPLICITLY AGREED TO IN WRITING BY FLIPSIDE, FLIPSIDE MAKES NO OTHER
+WARRANTIES, EXPRESS OR IMPLIED, IN FACT OR IN LAW, INCLUDING, BUT NOT LIMITED TO, ANY
+IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OTHER THAN AS
+SET FORTH IN THIS AGREEMENT OR IN THE LIMITED WARRANTY DOCUMENTS PROVIDED WITH THE
+SOFTWARE PRODUCT. 
+
+FLIPSIDE makes no warranty that the Software Product will meet your requirements or
+operate under your specific conditions of use. FLIPSIDE makes no warranty that operation
+of the Software Product will be secure, error free, or free from interruption. YOU MUST
+DETERMINE WHETHER THE SOFTWARE PRODUCT SUFFICIENTLY MEETS YOUR REQUIREMENTS FOR SECURITY
+AND UNINTERRUPTABILITY. YOU BEAR SOLE RESPONSIBILITY AND ALL LIABILITY FOR ANY LOSS
+INCURRED DUE TO FAILURE OF THE SOFTWARE PRODUCT TO MEET YOUR REQUIREMENTS. FLIPSIDE WILL
+NOT, UNDER ANY CIRCUMSTANCES, BE RESPONSIBLE OR LIABLE FOR THE LOSS OF DATA ON ANY
+COMPUTER OR INFORMATION STORAGE DEVICE.
+
+UNDER NO CIRCUMSTANCES SHALL FLIPSIDE, ITS DIRECTORS, OFFICERS, EMPLOYEES OR AGENTS BE
+LIABLE TO YOU OR ANY OTHER PARTY FOR INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL,
+PUNITIVE, OR EXEMPLARY DAMAGES OF ANY KIND (INCLUDING LOST REVENUES OR PROFITS OR LOSS OF
+BUSINESS) RESULTING FROM THIS AGREEMENT, OR FROM THE FURNISHING, PERFORMANCE,
+INSTALLATION, OR USE OF THE SOFTWARE PRODUCT, WHETHER DUE TO A BREACH OF CONTRACT, BREACH
+OF WARRANTY, OR THE NEGLIGENCE OF FLIPSIDE OR ANY OTHER PARTY, EVEN IF FLIPSIDE IS ADVISED
+BEFOREHAND OF THE POSSIBILITY OF SUCH DAMAGES. TO THE EXTENT THAT THE APPLICABLE
+JURISDICTION LIMITS FLIPSIDE'S ABILITY TO DISCLAIM ANY IMPLIED WARRANTIES, THIS DISCLAIMER
+SHALL BE EFFECTIVE TO THE MAXIMUM EXTENT PERMITTED. 
+
+Warrants and Representations
+
+FLIPSIDE warrants and represents that it is the copyright holder of the Software Product.
+FLIPSIDE warrants and represents that granting the license to use this Software Product is
+not in violation of any other agreement, copyright or applicable statute.
+
+Limitation of Remedies and Damages
+
+Your remedy for a breach of this Agreement or of any warranty included in this Agreement
+is the correction or replacement of the Software Product. Selection of whether to correct
+or replace shall be solely at the discretion of FLIPSIDE. FLIPSIDE reserves the right to
+substitute a functionally equivalent copy of the Software Product as a replacement. If
+FLIPSIDE is unable to provide a replacement or substitute Software Product or corrections
+to the Software Product, your sole alternate remedy shall be a refund of the purchase
+price for the Software Product exclusive of any costs for shipping and handling. 
+
+Any claim must be made within the applicable warranty period. All warranties cover only
+defects arising under normal use and do not include malfunctions or failure resulting from
+misuse, abuse, neglect, alteration, problems with electrical power, acts of nature,
+unusual temperatures or humidity, improper installation, or damage determined by FLIPSIDE
+to have been caused by you. All limited warranties on the Software Product are granted
+only to you and are non-transferable. You agree to indemnify and hold FLIPSIDE harmless
+from all claims, judgments, liabilities, expenses, or costs arising from your breach of
+this Agreement and/or acts or omissions. 
+
+User Support
+
+No user support or maintenance is provided as part of this Agreement.
+
+Term
+
+The term of this Agreement will begin on Acceptance and is perpetual.
+
+Termination
+
+This Agreement will be terminated and the License forfeited where the Licensee has failed
+to comply with any of the terms of this Agreement or is in breach of this Agreement. On
+termination of this Agreement for any reason, the Licensee will promptly destroy the
+Software Product or return the Software Product to the Vendor.
+
+Force Majeure
+
+FLIPSIDE will be free of liability to the Licensee where FLIPSIDE is prevented from
+executing its obligations under this Agreement in whole or in part due to Force Majeure,
+such as earthquake, typhoon, flood, fire, and war or any other unforeseen and
+uncontrollable event where the Vendor has taken any and all appropriate action to mitigate
+such an event.
+
+Governing Law, Jurisdiction and Costs 
+
+The Parties to this Agreement submit to the jurisdiction of the courts of the Province of
+Manitoba for the enforcement of this Agreement or any arbitration award or decision
+arising from this Agreement. This Agreement will be enforced or construed according to the
+laws of the Province of Manitoba.
+
+Severability 
+
+If any provision of this Agreement shall be held to be invalid or unenforceable, the
+remainder of this Agreement shall remain in full force and effect. To the extent any
+express or implied restrictions are not permitted by applicable laws, these express or
+implied restrictions shall remain in force and effect to the maximum extent permitted by
+such applicable laws. 
+
+Headings
+
+Headings are inserted for the convenience of the parties only and are not to be considered
+when interpreting this Agreement. Words in the singular mean and include the plural and
+vice versa. Words in the masculine gender include the feminine gender and vice versa.
+Words in the neuter gender include the masculine gender and the feminine gender and vice
+versa.
+
+Entire Agreement
+
+This Agreement contains the entire agreement between the parties. All understandings have
+been included in this Agreement. Representations which may have been made by any party to
+this Agreement may in some way be inconsistent with this final written Agreement. All such
+statements are declared to be of no value in this Agreement. Only the written terms of
+this Agreement will bind the parties.
+
+Assignability
+
+This Agreement and the terms and conditions contained in this Agreement apply to and are
+binding upon the Vendor's successors and assigns.
+
+Modification, Waiver
+
+No modification of or amendment to this Agreement, nor any waiver of any rights under this
+Agreement, will be effective unless in a writing signed by the Parties. Waiver by Licensee
+of a breach of any provision of this Agreement will not operate as a waiver of any other
+or subsequent breach.

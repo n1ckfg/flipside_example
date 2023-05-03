@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1105 &110500000
+HumanTemplate:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Example-Avatar-With-Colliders_Joints
+  m_BoneTemplate:
+    Chest: Spine_02
+    Head: Head
+    Hips: Pelvis
+    Left Index Distal: Finger_02_3_L
+    Left Index Intermediate: Finger_02_2_L
+    Left Index Proximal: Finger_02_1_L
+    Left Little Distal: Finger_04_3_L
+    Left Little Intermediate: Finger_04_2_L
+    Left Little Proximal: Finger_04_1_L
+    Left Ring Distal: Finger_03_3_L
+    Left Ring Intermediate: Finger_03_2_L
+    Left Ring Proximal: Finger_03_1_L
+    Left Thumb Intermediate: Finger_01_2_L
+    Left Thumb Proximal: Finger_01_1_L
+    LeftEye: Eye.L
+    LeftFoot: Foot_L
+    LeftHand: Palm_L
+    LeftLowerArm: Arm_02_L
+    LeftLowerLeg: Leg_02_L
+    LeftShoulder: Shoulder_L
+    LeftUpperArm: Arm_01_L
+    LeftUpperLeg: Leg_01_L
+    Neck: Neck
+    Right Index Distal: Finger_02_3_R
+    Right Index Intermediate: Finger_02_2_R
+    Right Index Proximal: Finger_02_1_R
+    Right Little Distal: Finger_04_3_R
+    Right Little Intermediate: Finger_04_2_R
+    Right Little Proximal: Finger_04_1_R
+    Right Ring Distal: Finger_03_3_R
+    Right Ring Intermediate: Finger_03_2_R
+    Right Ring Proximal: Finger_03_1_R
+    Right Thumb Intermediate: Finger_01_2_R
+    Right Thumb Proximal: Finger_01_1_R
+    RightEye: Eye.R
+    RightFoot: Foot_R
+    RightHand: Palm_R
+    RightLowerArm: Arm_02_R
+    RightLowerLeg: Leg_02_R
+    RightShoulder: Shoulder_R
+    RightUpperArm: Arm_01_R
+    RightUpperLeg: Leg_01_R
+    Spine: Spine_01
