@@ -360,7 +360,7 @@ MonoBehaviour:
   m_OverrideVoxelSize: 0
   m_VoxelSize: 0.16666667
   m_BuildHeightMesh: 0
-  m_NavMeshData: {fileID: 0}
+  m_NavMeshData: {fileID: 23800000, guid: a185acfc1843d3f48ae31b674e6f2365, type: 2}
 --- !u!1001 &1124868525
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -607,6 +607,24 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 1.0000001
   m_Center: {x: 0.0000009536743, y: 0, z: -0.00000047683716}
+--- !u!1 &1463928963 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1442835356619531929, guid: 6e7859d0a9b11864089cc34b82954bb0, type: 3}
+  m_PrefabInstance: {fileID: 1463928958}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1463928964
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1463928963}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.0000005, y: 0.010000001, z: 2.0000005}
+  m_Center: {x: 0, y: -0.0050000004, z: 7.1054274e-15}
 --- !u!1 &1892540505
 GameObject:
   m_ObjectHideFlags: 0
