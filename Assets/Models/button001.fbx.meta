@@ -7,13 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material
-    second: {fileID: 2100000, guid: 355b25e727f4782448f19c92fccfbe60, type: 2}
+      name: Glossy_Black
+    second: {fileID: 2100000, guid: a6c0633bafc5edc458ea92b16d4427a6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.001
-    second: {fileID: 2100000, guid: b9c3f0a953affd44b853d976f0811056, type: 2}
+      name: Material
+    second: {fileID: 2100000, guid: 9b4222a6fb1da48419ed3ab30abc953b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Main
+    second: {fileID: 2100000, guid: be3cc8caee66e034a882661f7b08d214, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
